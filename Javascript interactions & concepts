@@ -1,0 +1,7 @@
+Java Script Interactions Added:
+1. I added a button that changes the font color from white to black on the web page.
+2. I added a dynamic greeting card that displays a time-based greeting with the user's name on the web page
+
+Jave Script Concepts used:
+1. Event listener was used for the change font color button.
+2. Variable declaration with "if", "else", and "else if" was used for the greeting card.
